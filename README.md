@@ -19,7 +19,7 @@ My software projects during the university:
   - Purchase List Web Application (~2 months) ✍
   
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=react,cpp,flask,git,html,css,postgres,py,pytorch,ts,unity,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,cpp,flask,git,html,css,postgres,py,pytorch,ts,unity,js&theme=light)](https://skillicons.dev)
 
 <!--
 **Faruk372742/Faruk372742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
