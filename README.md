@@ -1,4 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Faruk Avcı 👋
+
+### About
+Senior computer engineering student at Istanbul Technical University
+  - 3.97/4.00 GPA 🥇
+
+### Software Development Experience
+My software development experience in the industry:
+  - Dream Games Software Engineering Internship (40 days) 🎮
+  - Bulent Ecevit University Backend Internship (20 days) 🐍
+  - Tiger Games Part-Time Mobile Game Development (~1 year) 📱
+
+### Individual and University Projects
+My software projects during the university: 
+  - Treasure Hunting Mobile and Web Application (~1 year) 👑
+  - Quiz Mobile and Web Application (~5 months) ❓
+  - E-commerce Website (~4 months) 💸
+  - Mobile Hypercasual Games (~1 year) 🎮
+  - Purchase List Web Application (~2 months) ✍
+
+### Connect With Me
+
+### Languages and Tools
+
 
 <!--
 **Faruk372742/Faruk372742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
