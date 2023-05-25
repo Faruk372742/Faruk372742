@@ -17,12 +17,9 @@ My software projects during the university:
   - E-commerce Website (~4 months) 💸
   - Mobile Hypercasual Games (~1 year) 🎮
   - Purchase List Web Application (~2 months) ✍
-
-### Connect With Me
-[![Linkedin](linkedin-social-media-icon-design-template-vector-png_127000.jpg)]([link to your URL](https://www.linkedin.com/in/faruk-avci/))
-
+  
 ### Languages and Tools
-
+[![My Skills](https://skillicons.dev/icons?i=react, cpp, flask, git, html, postgres, py, pytorch, ts, unity, js)](https://skillicons.dev)
 
 <!--
 **Faruk372742/Faruk372742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
