@@ -19,6 +19,7 @@ My software projects during the university:
   - Purchase List Web Application (~2 months) ✍
 
 ### Connect With Me
+[![Linkedin](linkedin-social-media-icon-design-template-vector-png_127000.jpg)]([link to your URL](https://www.linkedin.com/in/faruk-avci/))
 
 ### Languages and Tools
 
