@@ -1,8 +1,9 @@
 ### Hi there, I'm Faruk Avcı 👋
 
 ### About
-Senior computer engineering student at Istanbul Technical University
-  - 3.97/4.00 GPA 🥇
+New Grad Computer Engineering Student at Istanbul Technical University
+  - 3.97/4.00 GPA 
+  - Rank: 1 🥇
 
 ### Software Development Experience
 My software development experience in the industry:
