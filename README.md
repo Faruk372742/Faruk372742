@@ -12,7 +12,9 @@ My software development experience in the industry:
   - Tiger Games Part-Time Mobile Game Development (~1 year) 📱
 
 ### Individual and University Projects
-My software projects during the university: 
+My individual software projects:
+  - Head Soccer Multiplayer Game with Unity (~1 month) ⚽
+  - Testcase Generator Website (Frontend + Backend) (~1 month) 😎
   - Treasure Hunting Mobile and Web Application (~1 year) 👑
   - Quiz Mobile and Web Application (~5 months) ❓
   - E-commerce Website (~4 months) 💸
