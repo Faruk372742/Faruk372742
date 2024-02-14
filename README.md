@@ -13,7 +13,7 @@ My software development experience in the industry:
 
 ### Individual and University Projects
 My individual software projects:
-  - Head Soccer Multiplayer Game with Unity (~1 month) ⚽
+  - Head Soccer Multiplayer Game with Unity + Photon Fusion (~1 month) ⚽
   - Testcase Generator Website (Frontend + Backend) (~1 month) 😎
   - Treasure Hunting Mobile and Web Application (~1 year) 👑
   - Quiz Mobile and Web Application (~5 months) ❓
