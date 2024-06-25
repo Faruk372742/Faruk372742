@@ -1,6 +1,8 @@
 ### Hi there, I'm Faruk Avcı 👋
 
 ### About
+Constructor Institute MSc Computer Science, Switzerland
+
 New Grad Computer Engineering Student at Istanbul Technical University
   - 3.97/4.00 GPA 
   - Rank: 1 🥇
