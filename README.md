@@ -14,15 +14,23 @@ My software development experience in the industry:
   - Tiger Games Part-Time Mobile Game Development (~1 year) 📱
 
 ### Individual and University Projects
-My individual software projects:
+
+- My individual software projects:
   - EURO2024 Predictions Website (Frontend + Backend) (~10 days) ⚽
   - Head Soccer Multiplayer Game with Unity + Photon Fusion (~1 month) ⚽
   - Testcase Generator Website (Frontend + Backend) (~1 month) 😎
+  - Mobile Hypercasual Games (~1 year) 🎮
+  - Purchase List Web Application (~2 months) ✍
+    
+- University projects (Constructor Institute): 
+  - XOMO (Provider/Master calling system for your problems in your house, office) (~1 year still ongoing) 👷
+    
+- University projects (Istanbul Technical University):
   - Treasure Hunting Mobile and Web Application (~1 year) 👑
   - Quiz Mobile and Web Application (~5 months) ❓
   - E-commerce Website (~4 months) 💸
-  - Mobile Hypercasual Games (~1 year) 🎮
-  - Purchase List Web Application (~2 months) ✍
+     
+
   
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=react,cpp,flask,git,html,css,postgres,py,pytorch,ts,unity,js,cs,java&theme=dark)](https://skillicons.dev)
