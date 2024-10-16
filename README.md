@@ -15,6 +15,7 @@ My software development experience in the industry:
 
 ### Individual and University Projects
 My individual software projects:
+  - EURO2024 Predictions Website (Frontend + Backend) (~10 days) ⚽
   - Head Soccer Multiplayer Game with Unity + Photon Fusion (~1 month) ⚽
   - Testcase Generator Website (Frontend + Backend) (~1 month) 😎
   - Treasure Hunting Mobile and Web Application (~1 year) 👑
